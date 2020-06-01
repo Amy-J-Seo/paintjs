@@ -1,2 +1,2 @@
-# painjs
+# paintjs
 Painting board using JS
